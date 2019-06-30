@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e07648b-0ea7-4bf1-a2bf-91aacbb48f78" name="Default Changelist" comment="" />
+    <list default="true" id="7e07648b-0ea7-4bf1-a2bf-91aacbb48f78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -30,18 +35,34 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1029" />
-    <option name="y" value="341" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IDEA_Git_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDEA_Git_Demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA_Git_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDEA_Git_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -97,15 +118,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561888955702</updated>
-      <workItem from="1561888959745" duration="200000" />
+      <workItem from="1561888959745" duration="1929000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit to git，use idea！">
+      <created>1561889391736</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561889391736</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200000" />
+    <option name="totallyTimeSpent" value="1929000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -122,7 +151,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32962137" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -140,6 +169,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit to git，use idea！" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit to git，use idea！" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Module01/src/com/huang/HelloGit.java">
